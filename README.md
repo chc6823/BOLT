@@ -1,9 +1,16 @@
 # playdata_miniproject2
 플레이데이터 백엔드 부트캠프 미니프로젝트2
-![team1  발표자료_최종3-1](https://github.com/chc6823/playdata_miniproject2/assets/87232032/e0c80688-9534-465a-bf9e-ce5b050becfa)
-![team1  발표자료_최종3-2](https://github.com/chc6823/playdata_miniproject2/assets/87232032/1efe07c0-4149-4036-8259-3285478254db)
-![team1  발표자료_최종3-3](https://github.com/chc6823/playdata_miniproject2/assets/87232032/70f155ea-a7fb-49d7-a70c-59b86dfce170)
-![team1  발표자료_최종3-4](https://github.com/chc6823/playdata_miniproject2/assets/87232032/bf1db0db-e545-4a3d-8c42-02842b19d11d)
-![team1  발표자료_최종3-6](https://github.com/chc6823/playdata_miniproject2/assets/87232032/034a45cc-80e2-41c0-ad66-6839585c293d)
-![team1  발표자료_최종3-7](https://github.com/chc6823/playdata_miniproject2/assets/87232032/f55a4738-2fef-4375-ba14-aaad0b0012a5)
-![team1  발표자료_최종3-8](https://github.com/chc6823/playdata_miniproject2/assets/87232032/d14a4894-67d2-4df2-aec0-81faaf825b38)
+
+![team1  발표자료_최종3-1](https://github.com/chc6823/playdata_miniproject2/assets/87232032/8c6b9448-5bf3-4354-9b7e-577c14c0da49)
+![team1  발표자료_최종3-2](https://github.com/chc6823/playdata_miniproject2/assets/87232032/10c3da6e-a88c-4382-ba5f-f9ffcf5cf4e8)
+![team1  발표자료_최종3-3](https://github.com/chc6823/playdata_miniproject2/assets/87232032/7fc425e8-df97-4041-a70a-84ba3cdf841e)
+![team1  발표자료_최종3-4](https://github.com/chc6823/playdata_miniproject2/assets/87232032/cd7fe7e8-4f34-4ff2-81c7-5e382bf3732c)
+![team1  발표자료_최종3-5](https://github.com/chc6823/playdata_miniproject2/assets/87232032/f567ace6-48f2-4a02-914a-328d1ef0f126)
+![team1  발표자료_최종3-7](https://github.com/chc6823/playdata_miniproject2/assets/87232032/c0023ecd-9d38-492c-b6e9-ef58a9eec6af)
+![team1  발표자료_최종3-8](https://github.com/chc6823/playdata_miniproject2/assets/87232032/0a179ee1-59f0-4c9a-aab0-5e3df1a11e5a)
+
+
+
+
+
+
