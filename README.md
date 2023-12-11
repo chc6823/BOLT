@@ -1,5 +1,5 @@
-# playdata_miniproject2
-플레이데이터 백엔드 부트캠프 미니프로젝트2
+# encore_miniproject2
+엔코아 백엔드 부트캠프 미니프로젝트2
 
 ![team1  발표자료_최종3-1](https://github.com/chc6823/playdata_miniproject2/assets/87232032/8c6b9448-5bf3-4354-9b7e-577c14c0da49)
 ![team1  발표자료_최종3-2](https://github.com/chc6823/playdata_miniproject2/assets/87232032/10c3da6e-a88c-4382-ba5f-f9ffcf5cf4e8)
